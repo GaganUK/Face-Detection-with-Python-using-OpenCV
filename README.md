@@ -33,3 +33,10 @@ Haar cascasde classifier employs a Machine Learning approach for visual object d
 
 # Haar Features:
 ![](images/haar.png)
+
+# Haar Cascade Files:
+
+OpenCV comes with a lot pre-trained classifiers. For instance, there are classifiers for smile, eye, faces, etc. 
+They come in the form of XML files.
+
+![](inline/icon48.png) https://docs.opencv.org/3.4/d2/d99/tutorial_js_face_detection.html
