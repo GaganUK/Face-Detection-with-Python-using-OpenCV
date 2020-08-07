@@ -20,7 +20,7 @@ OpenCV was started at Intel in the year 1999 by Gary Bradsky.
 
 Face Detection is a technique that identifies or locates human faces in digital images.
 It is different from Face Recognition.
-It detects merely the presence of faces in an image while facial recognition involves identifying whose face it is.
+It merely detects the presence of faces in an image while facial recognition involves identifying whose face it is.
 
 # Haar feature-based cascade classifiers:
 
