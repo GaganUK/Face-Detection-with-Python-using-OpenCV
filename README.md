@@ -13,3 +13,5 @@ When we take a digital image, it is stored as a combination of pixels. Each pixe
 # OpenCV
 
 OpenCV was started at Intel in the year 1999 by Gary Bradsky.
+
+
